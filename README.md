@@ -4,7 +4,7 @@
 - 🌱 Estudanddo JavaScript
 - 💞️ Desenvolvendo alguns projetos 
 
-<div align="center">
+<div align="center-left">
   <a href="https://github.com/Gustavo-Seiti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Seiti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Seiti&layout=compact&langs_count=7&theme=dracula"/>
@@ -21,7 +21,7 @@
   <br>
   <br>
   
-  <div> 
+ <div> 
 
   <a href = "mailto:endo.tec@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-endo-3b718b18b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
