@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Olá,  Eu sou o Gustavo!</h1>
+<h1 align="left">Olá,  eu sou o Gustavo!</h1>
 <br>
 
 - 🔥 QA tester e Desenvolvedor JavaScript
