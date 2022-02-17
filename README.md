@@ -1,4 +1,9 @@
 ## Olá, seja bem vindo!
+*d
+*d*
+*d
+*d
+,*d
 <div align="center" style="display: inline_block">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Seiti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
