@@ -31,7 +31,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 
-
 <br>
 
  ![Snake animation](https://github.com/Gustavo-Seiti/Gustavo-Seiti/blob/output/github-contribution-grid-snake.svg)
