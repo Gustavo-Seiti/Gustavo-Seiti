@@ -3,11 +3,11 @@
 <h1 align="left">Olá,  eu sou o Gustavo!</h1>
 <br>
 
-- 🔥 QA tester e Desenvolvedor JavaScript
+- 🔥 Desenvolvedor de Software Backend
 
 - 🔭 Atualmente trabalhando na DTECHTA
 
-- 👨‍💻 Estudando e trabalhando em Projetos JavaScript
+- 👨‍💻 Trabalhando com Node.js, MongoDB, Docker e AWS.
 
 - 🎵 Amante de Lo-Fi 
 
