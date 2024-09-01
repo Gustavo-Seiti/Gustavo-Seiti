@@ -5,9 +5,9 @@
 
 - 🔥 Desenvolvedor de Software Backend
 
-- 🔭 Atualmente trabalhando na DTECHTA
+- 🔭 Atualmente trabalhando na Finnet
 
-- 👨‍💻 Trabalhando com Node.js, MongoDB, Docker e AWS.
+- 👨‍💻 Trabalhando com Node.js, MongoDB, Dockerm Postgrees e Vue
 
 - 🎵 Amante de Lo-Fi 
 
